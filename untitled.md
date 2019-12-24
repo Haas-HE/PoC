@@ -4,9 +4,9 @@ View and edit this document in Word on your computer, tablet, or phone. You can 
 
 ### Website
 
-![](../.gitbook/assets/3.jpg)
+![](.gitbook/assets/3.jpg)
 
-![person profile looking down](../.gitbook/assets/2.jpeg)
+![person profile looking down](.gitbook/assets/2.jpeg)
 
 ### HEADING 6 TEXT HERE
 
