@@ -1,12 +1,12 @@
-# Haas test 01
+# Haas PoC
 
 View and edit this document in Word on your computer, tablet, or phone. You can edit text; easily insert content such as pictures, shapes, or tables; and seamlessly save the document to the cloud from Word on your Windows, Mac, Android, or iOS device.
 
 ### Website
 
-![](.gitbook/assets/3.jpg)
+![](../.gitbook/assets/3.jpg)
 
-![person profile looking down](.gitbook/assets/2.jpeg)
+![person profile looking down](../.gitbook/assets/2.jpeg)
 
 ### HEADING 6 TEXT HERE
 
